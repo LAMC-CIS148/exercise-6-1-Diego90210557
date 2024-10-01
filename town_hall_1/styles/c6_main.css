@@ -114,10 +114,6 @@ aside h3 {
 }
 aside img {
 	float:right;
-	border:1px solid black;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	witdh:215px;
 }
 
 /* the styles for the footer */
