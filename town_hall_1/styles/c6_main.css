@@ -103,6 +103,7 @@ article img{
 	left-margin:20px;
 	top-margin:20px;
 	bottom-margin:20px;
+	border:1px solid black;
 article h2 {
 	padding-top: 0;
 }
@@ -112,7 +113,9 @@ article h3 {
 }
 
 /* the styles for the aside */
-
+aside h1{
+	text-color:maroon;
+}
 aside h3 {
 	font-size: 105%;
 	padding-bottom: 20px;
