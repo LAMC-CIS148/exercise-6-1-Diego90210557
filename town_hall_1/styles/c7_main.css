@@ -26,7 +26,7 @@ li{
 	float:left;
 }
 .current{
-	color:yellow;
+	text-color:yellow;
 }
 /* the styles for the header */
 header {
