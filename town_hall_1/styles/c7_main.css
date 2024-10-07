@@ -25,6 +25,9 @@ ul{
 li{
 	float:left;
 }
+.current{
+	color:yellow;
+}
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
