@@ -28,6 +28,15 @@ li{
 .current{
 	text-color:yellow;
 }
+nav{
+	postion:relative;
+}
+submenu{
+	display:100%;
+}
+.submenu{
+	floar:none;
+}
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
