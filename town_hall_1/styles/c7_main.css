@@ -36,6 +36,7 @@ submenu{
 }
 .submenu{
 	float:none;
+	display:vertical;
 }
 /* the styles for the header */
 header {
